@@ -74,6 +74,7 @@
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:textColor="?attr/wallpaperTextColorSecondary"
         android:singleLine="true"
+        android:visibility="gone"
         systemui:showMissingSim="true"
         systemui:showAirplaneMode="true" />
 
